@@ -1,2 +1,6 @@
 # new-hello-world
-Hello World from linux!
+
+Hello Humens!
+
+I'm trying to refrish my practice
+thanks a lot in advance
